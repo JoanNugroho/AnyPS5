@@ -80,6 +80,7 @@ int APS5_VABI sceAppContentCheckBundleLicenseOnDisc(uint32_t serviceLabel, const
 
 int APS5_VABI sceAppContentDownloadDataGetBlockSize() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 
 int APS5_VABI sceAppContentGetGameTrialsFlag(uint32_t* gameTrialsFlag) {

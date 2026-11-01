@@ -117,6 +117,7 @@ std::uint32_t VdecCoreFrameBufferSlots_nid_no_patch(const void* decoder, void** 
 
 int APS5_VABI sceVdecCoreQueryMemorySizeSvp() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 
 int APS5_VABI sceVdecCoreAnalyzeStream() {
