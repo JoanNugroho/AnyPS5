@@ -8,6 +8,7 @@ extern "C" {
 
 int APS5_VABI sceDbgKeyboardGetHandle() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 
 int APS5_VABI sceKeyboardInit(void) {
@@ -143,6 +144,7 @@ extern "C" {
 
 int APS5_VABI libSceKeyboardUnknown_l76jptHfizM_nid_no_patch() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 APS5_EXPORT("l76jptHfizM", libSceKeyboardUnknown_l76jptHfizM_nid_no_patch);
 

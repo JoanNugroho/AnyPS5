@@ -8,10 +8,12 @@ extern "C" {
 
 int APS5_VABI sceSystemLogger2GameGetTimestamp() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 
 int APS5_VABI sceSystemLogger2GameSetEvent() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 
 

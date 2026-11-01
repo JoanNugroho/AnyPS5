@@ -43,11 +43,13 @@ extern "C" {
 
 int APS5_VABI libSceDiscMapUnknown_5_plus_vOlukvkfg_nid_no_patch() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 APS5_EXPORT("5+vOlukvkfg", libSceDiscMapUnknown_5_plus_vOlukvkfg_nid_no_patch);
 
 int APS5_VABI libSceDiscMapUnknown_fJgP_plus_wqifno_nid_no_patch() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 APS5_EXPORT("fJgP+wqifno", libSceDiscMapUnknown_fJgP_plus_wqifno_nid_no_patch);
 
