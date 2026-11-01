@@ -292,21 +292,25 @@ extern "C" {
 
 int APS5_VABI libSceNpWebApi2Unknown_4N85o28Ifbk_nid_no_patch() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 APS5_EXPORT("4N85o28Ifbk", libSceNpWebApi2Unknown_4N85o28Ifbk_nid_no_patch);
 
 int APS5_VABI libSceNpWebApi2Unknown_A9IoYzANK3M_nid_no_patch() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 APS5_EXPORT("A9IoYzANK3M", libSceNpWebApi2Unknown_A9IoYzANK3M_nid_no_patch);
 
 int APS5_VABI libSceNpWebApi2Unknown_lylvdXiq1UE_nid_no_patch() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 APS5_EXPORT("lylvdXiq1UE", libSceNpWebApi2Unknown_lylvdXiq1UE_nid_no_patch);
 
 int APS5_VABI libSceNpWebApi2Unknown_qaMcX2_plus_6ZiA_nid_no_patch() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 APS5_EXPORT("qaMcX2+6ZiA", libSceNpWebApi2Unknown_qaMcX2_plus_6ZiA_nid_no_patch);
 

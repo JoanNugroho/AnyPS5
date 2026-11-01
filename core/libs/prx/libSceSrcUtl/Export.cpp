@@ -42,10 +42,12 @@ extern "C" {
 
 int APS5_VABI sceSrcUtilityCreateEx() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 
 int APS5_VABI sceSrcUtilityDeleteEx() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 
 int APS5_VABI sceSrcUtilityFinalize() {
@@ -60,6 +62,7 @@ int APS5_VABI sceSrcUtilityFlush() {
 
 int APS5_VABI sceSrcUtilityGetAjmContext() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 
 int APS5_VABI sceSrcUtilityGetDelaySamples() {
@@ -104,6 +107,7 @@ int APS5_VABI sceSrcUtilitySetPriority(void* handle, std::uint32_t priority) {
 }
 int APS5_VABI sceSrcUtilityTerminateEx() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 
 
