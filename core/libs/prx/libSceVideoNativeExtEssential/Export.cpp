@@ -39,6 +39,7 @@ extern "C" {
 
 int APS5_VABI libSceVideoNativeExtEssentialUnknown_iwAQhvb9BvY_nid_no_patch() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 APS5_EXPORT("iwAQhvb9BvY", libSceVideoNativeExtEssentialUnknown_iwAQhvb9BvY_nid_no_patch);
 

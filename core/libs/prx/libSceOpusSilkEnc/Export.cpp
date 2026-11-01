@@ -140,6 +140,7 @@ int APS5_VABI sceOpusSilkEncEncodeFloatWithPriorityAndTimeout(OpusSilkEncoder* s
 
 int APS5_VABI sceOpusSilkEncGetAjmContext() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 
 } // extern "C"

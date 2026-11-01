@@ -38,6 +38,7 @@ extern "C" {
 
 int APS5_VABI libSceNpPartner001Unknown_pQfYTZHznMc_nid_no_patch() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 APS5_EXPORT("pQfYTZHznMc", libSceNpPartner001Unknown_pQfYTZHznMc_nid_no_patch);
 

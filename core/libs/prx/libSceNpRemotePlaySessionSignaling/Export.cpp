@@ -58,18 +58,22 @@ int APS5_VABI sceNpRemotePlaySessionSignalingTerminate() {
 
 int APS5_VABI sceNpRemotePlaySessionSignalingAbortConnection() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 
 int APS5_VABI sceNpRemotePlaySessionSignalingEstablishConnection() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 
 int APS5_VABI sceNpRemotePlaySessionSignalingManualUdpCreateJoinSession() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 
 int APS5_VABI sceNpRemotePlaySessionSignalingManualUdpJoinSession() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 
 }

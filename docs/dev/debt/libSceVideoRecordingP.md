@@ -2,7 +2,7 @@
 
 ### Unknown function info
 
-- [sceVideoRecordingGetInfo, sceVideoRecordingSetInfo](../../../core/libs/prx/libSceVideoRecordingP/Export.cpp) support native validation and errors before a recording context exists. Open and initialization remain protected unimplemented exports; live recording queries, control and volume changes are unavailable.
+- [sceVideoRecordingGetInfo, sceVideoRecordingSetInfo](../../../core/libs/prx/libSceVideoRecordingP/Export.cpp) support native validation and errors before a recording context exists. `sceVideoRecordingOpen`, `sceVideoRecordingInit`, and `sceVideoRecordingInitialize` remain protected unimplemented exports; live recording queries, control and volume changes are unavailable.
 
 - [13.60 remaining inventory exports](../../../core/libs/prx/libSceVideoRecordingP/Export.cpp) - `sceVideoRecordingGetCopyrightImageMemory` (`PAKwtO6i9d8`), `sceVideoRecordingCloseWithTruncationByHandle` (`oryBI-2iyxw`) have unknown signatures and behavior. Parameterless `int` declarations are import-resolution placeholders, not verified ABI prototypes; every call throws through `NotImplemented_nid_no_patch`. These defined name/NID bindings come from the [13.60 export inventory](https://github.com/xdCloudy/PS5-13.60-Function-Stub-Library/blob/bfec40deb4c47a17d7603ee2bc79aa6862c0c56b/data/firmware-13.60/libscevideorecordingp-2f2509cb1b.jsonl).
 

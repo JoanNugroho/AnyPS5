@@ -99,6 +99,7 @@ extern "C" {
 
 int APS5_VABI libSceM4aacEncUnknown_dyjd6gEaAXw_nid_no_patch() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 APS5_EXPORT("dyjd6gEaAXw", libSceM4aacEncUnknown_dyjd6gEaAXw_nid_no_patch);
 

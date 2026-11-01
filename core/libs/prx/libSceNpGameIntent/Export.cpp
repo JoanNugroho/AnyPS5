@@ -142,6 +142,7 @@ int APS5_VABI sceNpSessionServiceGetJoinedPartySession() {
 
 int APS5_VABI sceNpSessionServiceInitialize() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 
 int APS5_VABI sceNpSessionServiceGetRunningGamePlayerSession() {
@@ -156,10 +157,12 @@ int APS5_VABI sceNpSessionServiceSendPlayerSessionInvitations() {
 
 int APS5_VABI sceNpSessionServiceSendPlayerSessionRequestToJoin() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 
 int APS5_VABI sceNpSessionServiceTerminate() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 
 }

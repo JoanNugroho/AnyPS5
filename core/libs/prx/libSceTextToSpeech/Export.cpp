@@ -64,11 +64,13 @@ extern "C" {
 
 int APS5_VABI libSceTextToSpeechUnknown_6ZLFpZLuqEk_nid_no_patch() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 APS5_EXPORT("6ZLFpZLuqEk", libSceTextToSpeechUnknown_6ZLFpZLuqEk_nid_no_patch);
 
 int APS5_VABI libSceTextToSpeechUnknown_L_minus_pHC7qtEug_nid_no_patch() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 APS5_EXPORT("L-pHC7qtEug", libSceTextToSpeechUnknown_L_minus_pHC7qtEug_nid_no_patch);
 

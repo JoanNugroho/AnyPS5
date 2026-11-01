@@ -509,6 +509,7 @@ int APS5_VABI sceImeFilterText(char16_t* dst, int32_t* out_length, uint32_t capa
 int APS5_VABI sceImeCheckFilterText(const void* param) {
     (void)param;
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 
 void APS5_VABI sceImeParamInit(Param* param) {
@@ -842,11 +843,13 @@ extern "C" {
 
 int APS5_VABI libSceImeUnknown_NbbzN9GRg_plus_c_nid_no_patch() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 APS5_EXPORT("NbbzN9GRg+c", libSceImeUnknown_NbbzN9GRg_plus_c_nid_no_patch);
 
 int APS5_VABI libSceImeUnknown_aChMGUoc7QI_nid_no_patch() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 APS5_EXPORT("aChMGUoc7QI", libSceImeUnknown_aChMGUoc7QI_nid_no_patch);
 
