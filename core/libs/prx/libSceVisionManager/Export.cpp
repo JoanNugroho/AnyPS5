@@ -310,31 +310,37 @@ APS5_EXPORT("-R5dI6KjYpY", libSceVisionManagerUnknown__minus_R5dI6KjYpY_nid_no_p
 
 int APS5_VABI libSceVisionManagerUnknown_0chNZ7GKUO0_nid_no_patch() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 APS5_EXPORT("0chNZ7GKUO0", libSceVisionManagerUnknown_0chNZ7GKUO0_nid_no_patch);
 
 int APS5_VABI libSceVisionManagerUnknown_9gGQMrf6sWg_nid_no_patch() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 APS5_EXPORT("9gGQMrf6sWg", libSceVisionManagerUnknown_9gGQMrf6sWg_nid_no_patch);
 
 int APS5_VABI libSceVisionManagerUnknown_ORAn12NcHYs_nid_no_patch() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 APS5_EXPORT("ORAn12NcHYs", libSceVisionManagerUnknown_ORAn12NcHYs_nid_no_patch);
 
 int APS5_VABI libSceVisionManagerUnknown_YQiB_minus_svtbcc_nid_no_patch() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 APS5_EXPORT("YQiB-svtbcc", libSceVisionManagerUnknown_YQiB_minus_svtbcc_nid_no_patch);
 
 int APS5_VABI libSceVisionManagerUnknown_dzN0VRFvA84_nid_no_patch() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 APS5_EXPORT("dzN0VRFvA84", libSceVisionManagerUnknown_dzN0VRFvA84_nid_no_patch);
 
 int APS5_VABI libSceVisionManagerUnknown_wu4afKNlup4_nid_no_patch() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 APS5_EXPORT("wu4afKNlup4", libSceVisionManagerUnknown_wu4afKNlup4_nid_no_patch);
 
