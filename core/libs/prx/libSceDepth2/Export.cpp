@@ -64,6 +64,7 @@ extern "C" {
 
 int APS5_VABI libSceDepth2Unknown_tLM3AwtzaHs_nid_no_patch() {
     NotImplemented_nid_no_patch(__func__);
+    return 0;
 }
 APS5_EXPORT("tLM3AwtzaHs", libSceDepth2Unknown_tLM3AwtzaHs_nid_no_patch);
 
